@@ -39,7 +39,7 @@ EVD+ 是一个包含 **11,055** 个图文对的中文表情包数据集。我们
 
 | Image | Caption |
 | :---: | :--- |
-| <img src="https://github.com/Image-Text-Matching/Chinese-Popular-Metaphorical-Meme/blob/main/example.jpg" width="200" alt="躺平表情包"> | <div style="display: flex; flex-direction: column; justify-content: center; height: 100%; text-align: left;"><strong>懒得动，躺平了</strong><br><em>(Too lazy to move, just chilling.)</em></div> |
+| <img src="https://github.com/Image-Text-Matching/Chinese-Popular-Metaphorical-Meme/blob/main/example.jpg" width="400" alt="躺平表情包"> | <div style="display: flex; flex-direction: column; justify-content: center; height: 100%; text-align: left;"><strong>懒得动，躺平了</strong><br><em>(Too lazy to move, just chilling.)</em></div> |
 ## 
 
 ## 🚀 如何使用 (How to Use)

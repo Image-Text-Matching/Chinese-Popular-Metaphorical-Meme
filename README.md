@@ -35,15 +35,6 @@ EVD+ 是一个包含 **11,055** 个图文对的中文表情包数据集。我们
 | :----------------------------------------------------------: | :--------------------------------------------------------- |
 | <img src="https://github.com/Image-Text-Matching/Chinese-Popular-Metaphorical-Meme/blob/main/example.jpg" width="200" alt="躺平表情包"> | **懒得动，躺平了** <br> (Too lazy to move, just chilling.) |
 
-
-| Image | Caption |
-| :---: | :--- |
-| <img src="https://github.com/Image-Text-Matching/Chinese-Popular-Metaphorical-Meme/blob/main/example.jpg" width="200" alt="躺平表情包"> | <br><br> **懒得动，躺平了** <br> *(Too lazy to move, just chilling.)* <br><br> |
-
-
-| Image | Caption |
-| :---: | :--- |
-| <img src="https://github.com/Image-Text-Matching/Chinese-Popular-Metaphorical-Meme/blob/main/example.jpg" width="400" alt="躺平表情包"> | <div style="display: flex; flex-direction: column; justify-content: center; height: 100%; text-align: left;"><strong>懒得动，躺平了</strong><br><em>(Too lazy to move, just chilling.)</em></div> |
 ## 
 
 ## 🚀 如何使用 (How to Use)
@@ -88,9 +79,10 @@ Below is a typical example from a dataset, which perfectly embodies the concept 
 
 
 
-| Image                                                        | Caption |                                                         |
-| ------------------------------------------------------------ | ------- | ------------------------------------------------------- |
-| ![img](<a class=)[https://i.imgur.com/8mY5a2j.png](https://github.com/Image-Text-Matching/Chinese-Popular-Metaphorical-Meme/blob/main/example.jpg)" width="200"> |         | **懒得动，躺平了**   (Too lazy to move, just chilling.) |
+
+|                            Image                             | Caption                                                    |
+| :----------------------------------------------------------: | :--------------------------------------------------------- |
+| <img src="https://github.com/Image-Text-Matching/Chinese-Popular-Metaphorical-Meme/blob/main/example.jpg" width="200" alt="躺平表情包"> | **懒得动，躺平了** <br> (Too lazy to move, just chilling.) |
 
 ### 🚀 How to Use
 

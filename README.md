@@ -28,9 +28,13 @@ EVD+ 是一个包含 **11,055** 个图文对的中文表情包数据集。我们
 
 下面是一个数据集中的典型示例，它完美诠释了当代网络文化中的“躺平”概念。
 
+
+
 | Image                                                        | Caption |                                                         |
 | ------------------------------------------------------------ | ------- | ------------------------------------------------------- |
-| ![img](<a class=)[https://i.imgur.com/8mY5a2j.png](https://github.com/Image-Text-Matching/Chinese-Popular-Metaphorical-Meme/blob/main/example.jpg)" width="200"> |         | **懒得动，躺平了**   (Too lazy to move, just chilling.) |
+| ![img](<a class=)https://github.com/Image-Text-Matching/Chinese-Popular-Metaphorical-Meme/blob/main/example.jpg" width="200"> |         | **懒得动，躺平了**   (Too lazy to move, just chilling.) |
+
+## 
 
 ## 🚀 如何使用 (How to Use)
 

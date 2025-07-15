@@ -39,7 +39,7 @@ EVD+ 是一个包含 **11,055** 个图文对的中文表情包数据集。我们
 
 ## 🚀 如何使用 (How to Use)
 
-您可以通过百度网盘下载完整的数据集:   [Baidu Yun](https://pan.baidu.com/s/1s8lE_2wBCpsyqCX5A8MESg?pwd=EVDP) (code: EVDP)
+您可以通过百度网盘下载完整的数据集:   [Baidu Yun](https://pan.baidu.com/s/1mvpJEGg13efbML93vqWyoA?pwd=EVDP) (code: EVDP)
 
 ## 🙌 如何贡献 (How to Contribute)
 
@@ -86,7 +86,7 @@ Below is a typical example from a dataset, which perfectly embodies the concept 
 
 ### 🚀 How to Use
 
-You can download the complete dataset from Baidu Netdisk: [Baidu Yun](https://pan.baidu.com/s/1s8lE_2wBCpsyqCX5A8MESg?pwd=EVDP) (code: EVDP)
+You can download the complete dataset from Baidu Netdisk: [Baidu Yun](https://pan.baidu.com/s/1mvpJEGg13efbML93vqWyoA?pwd=EVDP) (code: EVDP)
 
 ### 🙌 How to Contribute
 
